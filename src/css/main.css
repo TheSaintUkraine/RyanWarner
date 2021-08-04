@@ -1,0 +1,263 @@
+
+body {
+  font-family: "Jost";
+  background: linear-gradient(158.86deg, #1C2A34 10.36%, #111A20 49.58%, #111A20 49.58%);
+  color: white;
+  background-attachment: fixed;
+  font-size: 16px;
+  color: #ECF8FF;
+  margin: 0;
+}
+h1 {
+    margin: 0;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
+.a {
+  padding-left: 15px;
+}
+.nav {
+  display: flex;
+  justify-content: space-around;
+}
+.nav a {
+  width: 80px;
+  text-align: center;
+  align-self: center;
+}
+
+.header {
+  margin-top: 68px;
+  justify-content: space-between;
+}
+.logo {
+  display: flex;
+  font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 26px;
+}
+.logo img {
+  width: 23px;
+  height: 21px;
+  align-self: center;
+  margin-right: 23px;
+}
+.twitter {
+  color: #1DA1F2 !important;
+  text-decoration: underline;
+}
+.github {
+  color: #BBC6CC !important;
+  text-decoration: underline;
+}
+.dribbble {
+  color: #EA4C89 !important;
+  text-decoration: underline;
+}
+.btn {
+  padding: 4px 35px;
+width: 115px;
+height: 32px;
+border: 2px solid rgba(124, 201, 255, 0.41);
+border-radius: 6px;
+background: transparent;
+border: 2px solid rgba(124, 201, 255, 0.41);
+border-radius: 6px;
+color: #ECF8FF;
+font-size: 16px;
+}
+.btn:hover  {
+
+background: #243B4A;
+  color: #B0FBBC;
+}
+.p0 {
+  padding: 0;
+}
+.footer {
+  justify-content: space-between;
+  height: 177px;
+  align-items: center;
+}
+.footer p {
+font-size: 16px;
+line-height: 180%;
+color: #B8C1C7;
+}
+.contact_social {
+  display: flex;
+  justify-content: space-between;
+}
+.preview {
+font-weight: bold;
+font-size: 48px;
+line-height: 142%;
+color: #ECF8FF;
+}
+.banner {
+  margin-top: 120px;
+}
+.bannerH1 {
+  width: 100%;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 200%;
+text-shadow: 0px 0px 76px;
+color: #ACFBBA;
+}
+.about {
+  width: 580px;
+  margin-top: 68px;
+font-size: 18px;
+line-height: 180%;
+color: #ECF8FF;
+}
+.headArticles {
+  padding-left: 15px;
+  width: 100%;
+  justify-content: space-between;
+  font-size: 24px;
+  align-items: baseline;
+}
+.AllArt {
+  font-weight: normal;
+  display: flex;
+  font-size: 16px;
+}
+.AllArt img{
+  align-self: center;
+  width: 18px;
+  height: 18px;
+  margin-left: 5px;
+}
+.aInfo {
+  display: flex;
+}
+.wrapArticles {
+  width: 100%;
+  padding-left: 15px;
+}
+.article {
+  width: 100%;
+  padding-left: 15px;
+  padding-left: 15px;
+  margin-top: 12px;
+}
+.aInfo {
+  padding-left: 15px;
+
+  align-items: baseline;
+  width: 100%;
+  font-size: 18px;
+}
+.aInfo img {
+  align-self: center;
+  margin-right: 7px;
+}
+.aInfo .col-auto {
+  padding: 0;
+}
+.date {
+  padding-left: 45px;
+  margin-top: 15px !important;
+  font-size: 12px;
+line-height: 14px;
+color: #5E8CA7;
+}
+.prLong {
+  background: #1C2C35;
+border-radius: 8px;
+padding: 30px;
+border-left: 7px solid #CCA9F4;
+margin-left: 0px;
+}
+.prLong h2 {
+  font-weight: 500;
+font-size: 24px;
+  margin: 0 !important;
+}
+.prLong .head {
+  height: 36px;
+}
+.prLong p {
+  font-size: 16px;
+line-height: 23px;
+color: #C9E2F0;
+}
+.prLong .btn {
+  margin-top: 33px;
+}
+.projects h3{
+  font-size: 24px;
+}
+.projects {
+  margin-top: 100px;
+}
+.projects .row {
+  margin-top: 16px;
+}
+.sh {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  justify-content: space-between;
+}
+.sh .col-5 {
+  padding: 0;
+}
+.prSh {
+  padding: 30px;
+  background: #1C2C35;
+border-radius: 8px;
+margin-left: 0px;
+}
+.prSh h2 {
+  font-weight: 500;
+font-size: 24px;
+  margin: 0 !important;
+}
+.prSh .head {
+  height: 36px;
+}
+.prSh p {
+  font-size: 16px;
+line-height: 23px;
+color: #C9E2F0;
+}
+.contact {
+  background: #1C2C35;
+  padding-top: 100px;
+    padding-bottom: 80px;
+}
+.contact .row {
+  width: 100%;
+  justify-content: center;
+  text-align: center;
+  margin-top: 20px;
+
+}
+.contact h1 {
+  color: #B0FBBC;
+  font-size: 48px;
+}
+.container-fluid {
+  padding: 0;
+ margin-top: 124px;
+}
+.contact a {
+  width: 112px;
+  height: 38px;
+  background: #83F9A2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 6px;
+  font-size: 18px;
+line-height: 26px;
+font-weight: bold;
+color: #111A20;
+}

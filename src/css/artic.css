@@ -1,0 +1,38 @@
+.articles {
+  margin-top: 100px;
+}
+
+.article {
+  margin-top: 100px;
+
+}
+.wrapArticles {
+  margin-top: -50px;
+}
+.date {
+font-size: 14px;
+line-height: 20px;
+color: #7AB6D9;
+margin-bottom: 28px;
+}
+.name {
+  width: 600px;
+font-weight: bold;
+font-size: 26px;
+line-height: 38px;
+margin-bottom: 25px;
+}
+.info {
+  width: 600px;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+margin-bottom: 25px;
+}
+.readMore {
+font-weight: normal;
+font-size: 14px;
+line-height: 20px;
+
+color: #7AB6D9;
+}

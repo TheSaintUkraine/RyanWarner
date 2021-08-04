@@ -1,0 +1,172 @@
+.banner {
+  margin-top: 120px;
+}
+.bannerH1 {
+  width: 100%;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 200%;
+text-shadow: 0px 0px 76px;
+color: #ACFBBA;
+}
+.about {
+  width: 580px;
+  margin-top: 68px;
+font-size: 18px;
+line-height: 180%;
+color: #ECF8FF;
+}
+.headArticles {
+  padding-left: 15px;
+  width: 100%;
+  justify-content: space-between;
+  font-size: 24px;
+  align-items: baseline;
+}
+.AllArt {
+  font-weight: normal;
+  display: flex;
+  font-size: 16px;
+}
+.AllArt img{
+  align-self: center;
+  width: 18px;
+  height: 18px;
+  margin-left: 5px;
+}
+.aInfo {
+  display: flex;
+}
+.wrapArticles {
+  width: 100%;
+  padding-left: 15px;
+}
+.article {
+  width: 100%;
+  padding-left: 15px;
+  padding-left: 15px;
+  margin-top: 25px;
+  display: block !important;
+}
+.aInfo {
+  padding-left: 15px;
+
+  align-items: baseline;
+  width: 100%;
+  font-size: 18px;
+}
+.aInfo img {
+  align-self: center;
+  margin-right: 7px;
+}
+.aInfo .col-auto {
+  padding: 0;
+}
+.date {
+  padding-left: 45px;
+  margin-top: -15px;
+  font-size: 12px;
+line-height: 14px;
+color: #5E8CA7;
+}
+.prLong {
+  background: #1C2C35;
+border-radius: 8px;
+padding: 30px;
+border-left: 7px solid #CCA9F4;
+margin-left: 0px !important;
+}
+.prLong h2 {
+  font-weight: 500;
+font-size: 24px;
+  margin: 0 !important;
+}
+.prLong .head {
+  height: 36px;
+}
+.prLong p {
+  font-size: 16px;
+line-height: 23px;
+color: #C9E2F0;
+}
+.prLong .btn {
+  margin-top: 33px;
+}
+.projects h3{
+  font-size: 24px;
+}
+.projects {
+  margin-top: 100px;
+}
+.projects .row {
+  margin-top: 16px;
+}
+.sh {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  margin-left: 15px !important;
+  justify-content: space-between;
+}
+.sh .col-5 {
+  padding: 0;
+}
+.prSh {
+  padding: 30px;
+  background: #1C2C35;
+border-radius: 8px;
+margin-left: 0px;
+}
+.sh .prSh:nth-child(2) {
+  margin-right: 15px !important;
+}
+.prSh h2 {
+  font-weight: 500;
+font-size: 24px;
+  margin: 0 !important;
+}
+.prSh .head {
+  height: 36px;
+}
+.prSh p {
+  font-size: 16px;
+line-height: 23px;
+color: #C9E2F0;
+}
+.contact {
+  background: #1C2C35;
+  padding-top: 100px;
+    padding-bottom: 80px;
+}
+.contact .row {
+  width: 100%;
+  justify-content: center;
+  text-align: center;
+  margin-top: 20px;
+
+}
+.contact h1 {
+  color: #B0FBBC;
+  font-size: 48px;
+}
+.container-fluid {
+  padding: 0;
+ margin-top: 124px;
+}
+.contact a {
+  width: 112px;
+  height: 38px;
+  background: #83F9A2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 6px;
+  font-size: 18px;
+line-height: 26px;
+font-weight: bold;
+color: #111A20;
+}
+.articles {
+  margin-top: 100px;
+}
